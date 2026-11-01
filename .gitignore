@@ -1,0 +1,6 @@
+# Publish only the web page; everything else in this folder stays private.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!six-day-diet-plan.html
